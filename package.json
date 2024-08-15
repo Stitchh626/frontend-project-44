@@ -19,5 +19,8 @@
   "bin": {
     "code": "bin/brain-games.js"
   },
-  "description": "[![Actions Status](https://github.com/Stitchh626/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Stitchh626/frontend-project-44/actions)"
+  "description": "[![Actions Status](https://github.com/Stitchh626/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Stitchh626/frontend-project-44/actions)",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
