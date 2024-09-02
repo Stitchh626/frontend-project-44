@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/Stitchh626/frontend-project-44#readme",
   "bin": {
-    "code": "bin/brain-games.js"
+    "code": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "description": "[![Actions Status](https://github.com/Stitchh626/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Stitchh626/frontend-project-44/actions)",
   "dependencies": {
