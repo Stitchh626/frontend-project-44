@@ -4,11 +4,14 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bin/brain-games.js"
+    "start": "node bin/brain-games.js",
+    "brain-games": "node bin/brain-games.js",
+    "brain-even": "node bin/brain-even.js"
   },
   "author": "",
   "license": "ISC",
