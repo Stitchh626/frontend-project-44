@@ -12,6 +12,9 @@ brain-calc:
 
 brain-gcd:
 	node bin/brain-gcd.js
+	
+brain-progression:
+	bin/brain-progression.js
 
 publish:
 	npm publish
