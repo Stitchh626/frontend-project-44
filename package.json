@@ -15,5 +15,10 @@
   "description": "",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "eslint": "^8.57.1",
+    "globals": "^15.12.0"
   }
 }
