@@ -4,7 +4,6 @@ import { greetUser } from './cli.js';  // Import greetUser from cli.js
 const roundsCount = 3;
 
 const runGame = (gameDescription, getQuestionAndAnswer) => {
-  console.log('Welcome to the Brain Games!');
   const name = greetUser(); // Use greetUser for greets
   console.log(gameDescription);
 
