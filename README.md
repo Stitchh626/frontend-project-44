@@ -44,7 +44,7 @@ npm link
 
 Asciinema for running brain-even game: [![asciicast](https://asciinema.org/a/GOGmFrOzDtj4bEVua4jXMb0e9.svg)](https://asciinema.org/a/GOGmFrOzDtj4bEVua4jXMb0e9)
 
-Asciinema for running brain-calc game: 
+Asciinema for running brain-calc game: [![asciicast](https://asciinema.org/a/Q7Q7d27AQta5hzGKzpRqkHlAl.svg)](https://asciinema.org/a/Q7Q7d27AQta5hzGKzpRqkHlAl)
 
 Asciinema for running brain-gcd game: [![asciicast](https://asciinema.org/a/FakdhCBHMGGBr5MDMhOycRcna.svg)](https://asciinema.org/a/FakdhCBHMGGBr5MDMhOycRcna)
 
