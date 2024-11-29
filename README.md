@@ -1,31 +1,53 @@
-frontend-project-44
+# frontend-project-44
+## Hi there!
+## Brain-games is a set of command-line mini-games.
 
-Brain-games is a simple set of terminal mini-games.
+### Requirements:
 
-Requirements:
+  Node-JS 18.17.0 or higher
+  npm
 
-Node-JS 13.2.0 or higher
-
-How to install games:
-
-Open console and execute:
-
-To clone repository:
-
-git clone https://github.com/RainZerg/frontend-project-44
-To install project:
-
+### How to install Brain-games: 
+#### Open Terminal or other command-line interpreter and print:
+  To clone project:
+  ```sh
+git clone [https://github.com/Stitchh626/frontend-project-44]
+```
+  To install project:
+  ```
 make install
+```
+  ```
 make publish
+```
+  ```
 npm link
-Now you can play
+```
 
-Type the name of the game and press Enter!
+### Have a fun :)
 
-Rules:
 
-brain-even - user is shown a random number. And he needs to answer yes if the number is even, or no if it is odd;
-brain-calс - user is shown a random mathematical expression, for example 35 + 16, which needs to be calculated and written down the correct answer;
-brain-gcd - two random numbers are shown to the user, for example, 25 50. The user must calculate and enter the largest common divisor of these numbers;
-brain-progression - the player is shown a series of numbers forming an arithmetic progression in which one of the numbers is replaced by two points. The player must determine this number;
-brain-prime - user is shown a random number. And he needs to answer yes if the number is prime, or no if not.
+#### Choose your fighter:
+
+> **brain-even** - you have to choose even number. Answer **yes** if the number is even, or **no** if it is not;
+
+> **brain-calс** - you have to calculate simple arithmetic expression and write the correct answer;
+
+> **brain-gcd** - you have to calculate and enter the largest common divisor of two numbers (yeah, it isn't easy);
+
+> **brain-progression** - you have to determine the number an arithmetic progression which this is replaced by two points;
+
+> **brain-prime** - you have to answer **yes** if the random number is prime, or **no** if it is not.
+
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Stitchh626/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Stitchh626/frontend-project-44/actions)  
+
+Asciinema for running brain-even game: [![asciicast](https://asciinema.org/a/GOGmFrOzDtj4bEVua4jXMb0e9.svg)](https://asciinema.org/a/GOGmFrOzDtj4bEVua4jXMb0e9)
+
+Asciinema for running brain-calc game: 
+
+Asciinema for running brain-gcd game: [![asciicast](https://asciinema.org/a/FakdhCBHMGGBr5MDMhOycRcna.svg)](https://asciinema.org/a/FakdhCBHMGGBr5MDMhOycRcna)
+
+Asciinema for running brain-progression game: [![asciicast](https://asciinema.org/a/MgZq5QsCxK7RUXcLYrB7XfnLh.svg)](https://asciinema.org/a/MgZq5QsCxK7RUXcLYrB7XfnLh)
+
+Asciinema for running brain-prime game: [![asciicast](https://asciinema.org/a/cHERN3ZseAhe87z0ueLzZUDes.svg)](https://asciinema.org/a/cHERN3ZseAhe87z0ueLzZUDes)
