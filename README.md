@@ -27,7 +27,7 @@ npm link
 ### Have a fun :)
 
 
-#### Choose your fighter:
+#### Choose your fighter 🤼:
 
 > **brain-even** - you have to choose even number. Answer **yes** if the number is even, or **no** if it is not;
 
