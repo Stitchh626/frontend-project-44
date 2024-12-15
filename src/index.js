@@ -1,12 +1,13 @@
 import readlineSync from 'readline-sync';
-import { greetUser } from './cli.js';  
+import greetUser from './cli.js';
+
 const roundsCount = 3;
 
 const runGame = (gameDescription, getQuestionAndAnswer) => {
-  const name = greetUser(); 
+  const name = greetUser();
   console.log(gameDescription);
 
-  for (let round = 0; round < roundsCount; round++) {
+  for (let round = 0; round < roundsCount; round += 1) {
     const { question, correctAnswer } = getQuestionAndAnswer();
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
