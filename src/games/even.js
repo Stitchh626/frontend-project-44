@@ -1,3 +1,4 @@
+// src/games/even.js
 import readlineSync from 'readline-sync';
 
 const playEvenGame = () => {
